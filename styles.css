@@ -9,3 +9,7 @@ html { box-sizing: border-box;}
 main {
     background-color: blue;
 }
+
+p {
+    font-family: helvetica;
+}
