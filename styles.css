@@ -17,3 +17,7 @@ p {
 footer {
     width: 100%;
 }
+
+section {
+    display: flex;
+}
