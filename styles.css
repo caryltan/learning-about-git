@@ -13,3 +13,7 @@ main {
 p {
     font-family: helvetica;
 }
+
+footer {
+    width: 100%;
+}
